@@ -1,6 +1,6 @@
 ### Hi! I'm Tomas 👋
 ![fondo_despacho](https://github.com/tomashervas/tomashervas/assets/45578239/51d78e56-ac88-42af-9b7e-cf79db0b302e)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&random=false&width=435&lines=Full+stack+developer;Digital+designer;Mobile+app+developer)](https://git.io/typing-svg)
 <!--
 **tomashervas/tomashervas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
