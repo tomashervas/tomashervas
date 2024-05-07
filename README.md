@@ -27,4 +27,10 @@
  [![Git, Github, Docker, Jest](https://skillicons.dev/icons?i=git,github,docker,jest)](https://skillicons.dev)
  ### Design
  [![Figma, Xd, Blender](https://skillicons.dev/icons?i=figma,xd,blender)](https://skillicons.dev)
+
+<div align="center">
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomashervas&layout=donut&theme=radical&hide=pascal,powershell)](https://github.com/tomashervas/github-readme-stats)
+
+</div>
  
